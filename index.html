@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>EcoSense.AI</title>
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="shortcut icon" href="./img/logo_2-removebg-preview.png" type="image/x-icon">
+    <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css">
+
+
+   
+
+
+  </head>
+  <body>
+    <div class="container">
+      <div id="particles-js"></div>
+      <header>
+        <nav>
+          <div class="logo">
+            <img src="./img/logo_2-removebg-preview.png" class="logo_1" alt="logo" />
+            <h1>EcoSense.AI</h1>
+          </div>
+          <div class="nav_1">
+            <a href="./index.html" class="active">How AI works</a>
+            <a href="./monitoring.html">Monitoring</a>
+            <a href="./more.html">About Us</a>
+            <a href="./our.html">Our Team</a>
+            <a href="./contact.html">Contact Us</a>
+
+           
+          </div>
+        </nav>
+        <div class="section_1">
+         <div class="bg"></div>
+         
+            <p class="bounce"><span>A</span><span>I</span><span>-</span><span>p</span><span>o</span><span>w</span><span>e</span><span>r</span><span>e</span><span>d</span>
+              <span> </span>
+              <span>m</span><span>o</span><span>n</span><span>i</span><span>t</span><span>o</span><span>r</span><span>i</span><span>n</span><span>g</span>
+              <span> </span>
+              <span>o</span><span>f</span>
+              <span> </span>
+              <span>a</span><span>i</span><span>r</span><span>,</span>
+              <span> </span>
+              <span>w</span><span>a</span><span>t</span><span>e</span><span>r</span><span>,</span>
+              <span> </span>
+              <span>a</span><span>n</span><span>d</span>
+              <span> </span>
+              <span>s</span><span>o</span><span>i</span><span>l</span><span>.</span>
+               </p>
+              <p class="sec_p" ><span>R</span><span>e</span><span>a</span><span>l</span><span>-</span><span>t</span><span>i</span><span>m</span><span>e</span>
+                <span> </span>
+                <span>t</span><span>r</span><span>a</span><span>c</span><span>k</span><span>i</span><span>n</span><span>g</span><span>,</span>
+                <span> </span>
+                <span>s</span><span>o</span><span>u</span><span>r</span><span>c</span><span>e</span>
+                <span> </span>
+                <span>d</span><span>e</span><span>t</span><span>e</span><span>c</span><span>t</span><span>i</span><span>o</span><span>n</span><span>,</span>
+                <span> </span>
+                <span>a</span><span>n</span><span>d</span>
+                <span> </span>
+                <span>s</span><span>o</span><span>l</span><span>u</span><span>t</span><span>i</span><span>o</span><span>n</span><span>-</span><span>d</span><span>r</span><span>i</span><span>v</span><span>e</span><span>n</span>
+                <span> </span>
+                <span>r</span><span>e</span><span>c</span><span>o</span><span>m</span><span>m</span><span>e</span><span>n</span><span>d</span><span>a</span><span>t</span><span>i</span><span>o</span><span>n</span><span>s</span><span>.</span>
+                 </p>
+         
+          
+         </div>
+         <a href="./more.html">
+
+           <div class="sec_1btn">
+            <button>Learn more</button>
+           </div>
+         </a>
+      </header>
+
+
+
+      <div class="dash1-wrapper">
+
+        <h2  class="dash1-title" > Dashboard (demo)</h2>
+    
+        <div class="dash1-cards">
+    
+          <div class="dash1-card">
+            <p class="dash1-label">Air Quality (AQI)</p>
+            <p id="d1Aqi" class="dash1-value">--</p>
+          </div>
+    
+          <div class="dash1-card">
+            <p class="dash1-label">EHI (Environmental Health Index)</p>
+            <p id="d1Ehi" class="dash1-value">--</p>
+          </div>
+    
+        </div>
+    
+        <div class="dash1-chart-box">
+          <canvas id="d1Chart" height="130"></canvas>
+        </div>
+    
+      </div>
+
+  
+
+
+
+
+
+
+<!-- ================= JURY STORY ================= -->
+<section class="jury-story">
+
+  <!-- PROBLEM -->
+  <div class="story-block problem">
+    <h2>🚨 The Problem</h2>
+    <p class="story-sub">
+      Environmental issues are detected too late — when damage is already done.
+    </p>
+
+    <div class="story-cards">
+      <div class="story-card red">
+        <h4>Late Detection</h4>
+        <p>Water and soil pollution are discovered only after serious damage.</p>
+      </div>
+      <div class="story-card red">
+        <h4>High Costs</h4>
+        <p>Traditional monitoring systems are expensive and centralized.</p>
+      </div>
+      <div class="story-card red">
+        <h4>No Citizen Link</h4>
+        <p>People and authorities are not connected in real time.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- SOLUTION -->
+  <div class="story-block solution">
+    <h2>💡 Our Solution</h2>
+    <p class="story-sub">
+      EcoSense.AI connects data, artificial intelligence, and people.
+    </p>
+
+    <div class="story-steps">
+      <div class="step">
+        <span>1</span>
+        <p>Sensors, drones and citizen reports collect data</p>
+      </div>
+      <div class="step">
+        <span>2</span>
+        <p>Multimodal AI detects anomalies and root causes</p>
+      </div>
+      <div class="step">
+        <span>3</span>
+        <p>System generates real-time recommendations</p>
+      </div>
+    </div>
+
+    <div class="ehi-demo">
+      <p>Ecosystem Health Index (EHI)</p>
+      <div id="ehi-demo-value">72</div>
+    </div>
+  </div>
+
+  <!-- IMPACT -->
+  <div class="story-block impact">
+    <h2>🌱 Impact</h2>
+    <p class="story-sub">
+      What changes when EcoSense.AI is deployed?
+    </p>
+
+    <div class="impact-grid">
+      <div class="impact-card before">
+        <h4>Before</h4>
+        <ul>
+          <li>❌ Late response</li>
+          <li>❌ High recovery costs</li>
+          <li>❌ Fragmented data</li>
+        </ul>
+      </div>
+
+      <div class="impact-card after">
+        <h4>With EcoSense.AI</h4>
+        <ul>
+          <li>✅ Early detection</li>
+          <li>✅ Cost reduction</li>
+          <li>✅ Coordinated action</li>
+        </ul>
+      </div>
+    </div>
+
+    <p class="impact-note">
+      Pilot simulations show up to <b>15% reduction</b> in environmental damage.
+    </p>
+  </div>
+
+  <!-- APPROVAL -->
+  <!-- <div class="story-block approval">
+    <h2>🟢 Approval Request</h2>
+    <p class="story-sub">
+      EcoSense.AI is ready for pilot deployment in Uzbekistan.
+    </p>
+
+    <div class="approval-reasons">
+      <p>✔ Working demo & dashboard</p>
+      <p>✔ Local relevance (water, agriculture, cities)</p>
+      <p>✔ Scalable to national level</p>
+    </div>
+
+    <button class="approve-btn">
+      Approve Pilot Project
+    </button>
+
+    <p class="approval-note">
+      *This approval enables a controlled pilot in one selected district.
+    </p>
+  </div> -->
+
+</section>
+<!-- ================= END JURY STORY ================= -->
+
+
+
+
+
+
+
+
+
+
+
+<div class="section_4">
+
+<div class="form">
+  <label class="file-upload">
+      <input type="file" id="imageInput" accept="image/*" />
+      <span>
+        📁Choose image
+      </span>
+    </label>
+    
+  <textarea id="textInput" placeholder="Type your text..."></textarea>
+  <button onclick="createCard()">Create Card</button>
+</div>
+
+<div class="cards" id="cards"></div>
+
+      
+</div>
+      
+
+
+
+
+
+
+
+      
+
+<div class="section_5">
+
+  <h1 id="dron">Live Drone Monitoring (Demo)</h1>
+  
+</div>
+
+
+<div id="map"></div>
+
+
+
+
+
+<footer class="footer">
+  <div class="footer-container">
+
+    <!-- Brand -->
+    <div class="footer-col">
+      <h2 class="footer_logo">EcoSense<span>.ai</span></h2>
+      <p class="desc">
+        AI-powered environmental monitoring and analytics platform.
+      </p>
+    </div>
+
+    <!-- Quick Links -->
+    <div class="footer-col">
+      <h3>Quick Links</h3>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#d1Aqi">Dashboard</a></li>
+        <li><a href="#dron">Live Drone Map</a></li>
+        <li><a href="./monitoring.html">Analytics</a></li>
+        <li><a href="./contact.html">Contact</a></li>
+      </ul>
+    </div>
+
+    <!-- Solutions -->
+    <div class="footer-col">
+      <h3>Solutions</h3>
+      <ul>
+        <li>Air Quality Monitoring</li>
+        <li>Water Pollution Detection</li>
+        <li>Drone Surveillance</li>
+        <li>AI Reports</li>
+        <li>Real-time Alerts</li>
+      </ul>
+    </div>
+
+    <!-- Contact -->
+    <div class="footer-col">
+      <h3>Contact</h3>
+      <p>📧 contact@ecosense.ai</p>
+      <p>🌍 Uzbekistan</p>
+      <p>🕒 24/7 Monitoring</p>
+    </div>
+
+  </div>
+
+  <div class="footer-bottom">
+    © 2026 EcoSense.ai — All rights reserved.
+  </div>
+</footer>
+
+
+
+
+
+
+
+
+</div>
+<!-- Leaflet JS -->
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+    <script src="./main.js"></script>
+  </body>
+</html>
