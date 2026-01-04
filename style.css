@@ -77,6 +77,9 @@ nav {
   z-index: 3;
   cursor: pointer;
 }
+.nav_1>i{
+  display: none;
+}
 .nav_1 > a:hover {
   text-decoration: underline;
   text-decoration-color: rgb(15, 204, 15); /* 🔴 chiziq rangini belgilaydi */
@@ -953,3 +956,219 @@ nav {
   /* border: 1px solid black; */
 }
 
+
+@media screen and (max-width: 1448px) {
+  .bounce{
+    margin-left: 390px;
+  }
+}
+
+@media screen and (max-width: 1356px) {
+  .bounce{
+    margin-left: 350px;
+  }
+}
+
+@media screen and (max-width: 1289px) {
+  .bounce{
+    margin-left: 300px;
+  }
+}
+@media screen and (max-width: 1157px) {
+  .bounce{
+    margin-left: 280px;
+  }
+  .nav_1> a{
+ font-size: 19px;
+ margin-top: 10px;
+  }
+}
+@media screen and (max-width: 1131px) {
+  .bounce{
+    margin-left: 230px;
+  }
+  .nav_1> a{
+ font-size: 19px;
+ margin-top: 10px;
+ display: none;
+  }
+  .nav_1>i{
+    display: inline-block;
+    color: #00ff73;
+   margin-left: 680px;
+   font-size: 22px;
+   margin-top: 5px;
+  }
+}
+@media screen and (max-width: 1028px){
+  .bounce{
+    margin-left: 180px;
+  }
+  .nav_1>i{
+    display: inline-block;
+    color: #00ff73;
+   margin-left: 580px;
+   font-size: 22px;
+   margin-top: 5px;
+  }
+}
+@media screen and (max-width: 959px){
+  .bounce{
+    margin-left: 180px;
+  }
+  .nav_1>i{
+    display: inline-block;
+    color: #00ff73;
+   margin-left: 540px;
+   font-size: 22px;
+   margin-top: 5px;
+  }
+}
+@media screen and (max-width: 910px){
+  .bounce{
+    margin-left: 180px;
+  }
+  .nav_1>i{
+    display: inline-block;
+    color: #00ff73;
+   margin-left: 500px;
+   font-size: 22px;
+   margin-top: 5px;
+  }
+}
+@media screen and (max-width: 872px){
+  .bounce{
+    margin-left: 140px;
+  }
+  .nav_1>i{
+    display: inline-block;
+    color: #00ff73;
+   margin-left: 480px;
+   font-size: 22px;
+   margin-top: 5px;
+  }
+}
+@media screen and (max-width: 854px){
+  .bounce{
+    margin-left: 100px;
+  }
+  .nav_1>i{
+    display: inline-block;
+    color: #00ff73;
+   margin-left: 440px;
+   font-size: 22px;
+   margin-top: 5px;
+  }
+}
+@media screen and (max-width: 810px){
+  .bounce{
+    margin-left: 80px;
+  }
+  .nav_1>i{
+    display: inline-block;
+    color: #00ff73;
+   margin-left: 400px;
+   font-size: 22px;
+   margin-top: 5px;
+  }
+}
+
+@media screen and (max-width: 772px){
+  .bounce{
+    margin-left: 80px;
+    font-size: 27px;
+  }
+  .sec_p{
+    font-size: 27px;
+  }
+  .logo{
+    margin-left: 20px;
+  }
+  .nav_1>i{
+    display: inline-block;
+    color: #00ff73;
+   margin-left: 380px;
+   font-size: 22px;
+   margin-top: 5px;
+  }
+}
+@media screen and (max-width: 690px){
+ .nav_1>i{
+    
+   margin-left: 340px;
+ 
+  }
+  .bounce{
+    margin-left: 60px;
+    font-size: 24px;
+  }
+  .sec_p{
+    font-size: 24px;
+  }
+}
+@media screen and (max-width: 650px){
+  .nav_1>i{
+     
+    margin-left: 300px;
+  
+   }
+   .logo{
+   font-size: 14px;
+  }
+ }
+
+ @media screen and (max-width: 610px){
+ 
+   .bounce{
+     margin-left: 45px;
+     font-size: 23px;
+   }
+   .sec_p{
+     font-size: 23px;
+   }
+ }
+
+ @media screen and (max-width: 595px){
+  .nav_1>i{
+     
+    margin-left: 280px;
+  
+   }
+   .logo{
+   font-size: 12px;
+  }
+  .logo>img{
+    width: 42px;
+    height: 42px;
+  }
+  .bounce{
+    margin-left: 120px;
+    font-size: 18px;
+  }
+  .sec_p{
+    width: 314px;
+    font-size: 18px;
+    margin-left: 160px;
+  }
+
+  .sec_1btn{
+    margin-top: -410px;
+  }
+
+ }
+
+ @media screen and (max-width: 567px){
+ 
+  .bounce{
+    margin-left:80px;
+    font-size: 17px;
+  }
+  .sec_p{
+    width: 290px;
+    font-size: 17px;
+    margin-left: 110px;
+  }
+  .sec_1btn{
+    margin-left: 155px;
+  }
+}
