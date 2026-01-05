@@ -33,14 +33,22 @@
     margin-top: 10px;
     display: none;
   }
-  .nav_1 > i {
+  .nav_1>i {
     display: inline-block;
     color: #00ff73;
-    margin-left: 680px;
+    margin-left: 700px;
     font-size: 22px;
     margin-top: 5px;
   }
 }
+
+
+
+
+
+
+
+
 @media screen and (max-width: 1028px) {
   .bounce {
     margin-left: 180px;
@@ -566,3 +574,7 @@
     margin-left: 0;
   }
 }
+
+
+
+

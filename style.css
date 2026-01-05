@@ -78,12 +78,42 @@ nav {
   cursor: pointer;
 }
 .nav_1 > i {
+  color: green;
   display: none;
 }
 .nav_1 > a:hover {
   text-decoration: underline;
   text-decoration-color: rgb(15, 204, 15); /* 🔴 chiziq rangini belgilaydi */
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .section_1 {
   width: 100%;
   max-width: 1770px;
