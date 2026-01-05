@@ -518,22 +518,23 @@
 @media screen and (max-width: 320px) {
   .nav_1 > i {
     margin-top: 2px;
-    margin-left: 140px;
+    margin-left: 130px;
     font-size: 15px;
   }
 
   .bounce {
-    /* margin-left:10px; */
+    margin-left:30px;
     font-size: 13px;
     font-weight: 100;
   }
   .sec_p {
     width: 210px;
     font-size: 13px;
-    /* margin-left: 30px; */
+    margin-left: 45px;
     margin-top: -280px;
     line-height: 1.5;
     font-weight: 100;
+    
   }
 
   .sec_1btn {
