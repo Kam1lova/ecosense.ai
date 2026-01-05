@@ -1419,3 +1419,43 @@ font-size: 10px;
      margin-top: 5px;
     }
 }
+
+@media screen and (max-width: 320px){
+ 
+  .nav_1>i{
+    margin-top: 2px;
+    margin-left: 140px;
+    font-size: 15px;
+  
+   }
+ 
+   .bounce{
+    margin-left:10px;
+    font-size: 13px;
+  }
+  .sec_p{
+    width: 221px;
+    font-size: 13px;
+    margin-left: 30px;
+    margin-top: -280px;
+  }
+
+  .sec_1btn{
+    margin-top: -450px;
+    margin-left: 70px;
+    
+  }
+  .sec_1btn> button{
+    width: 160px;
+    height: 40px;
+  }
+  .logo{
+    font-size: 8px;
+    margin-top: 15px;
+    }
+    .logo>img{
+     width: 25px;
+     height: 25px;
+     margin-top: 5px;
+    }
+}
