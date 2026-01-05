@@ -1,638 +1,567 @@
-
 @media screen and (max-width: 1448px) {
-    .bounce{
-      margin-left: 390px;
-    }
+  .bounce {
+    margin-left: 390px;
   }
-  
-  @media screen and (max-width: 1356px) {
-    .bounce{
-      margin-left: 350px;
-    }
+}
+
+@media screen and (max-width: 1356px) {
+  .bounce {
+    margin-left: 350px;
   }
-  
-  @media screen and (max-width: 1289px) {
-    .bounce{
-      margin-left: 300px;
-    }
+}
+
+@media screen and (max-width: 1289px) {
+  .bounce {
+    margin-left: 300px;
   }
-  @media screen and (max-width: 1157px) {
-    .bounce{
-      margin-left: 280px;
-    }
-    .nav_1> a{
-   font-size: 19px;
-   margin-top: 10px;
-    }
+}
+@media screen and (max-width: 1157px) {
+  .bounce {
+    margin-left: 280px;
   }
-  @media screen and (max-width: 1131px) {
-    .bounce{
-      margin-left: 230px;
-    }
-    .nav_1> a{
-   font-size: 19px;
-   margin-top: 10px;
-   display: none;
-    }
-    .nav_1>i{
-      display: inline-block;
-      color: #00ff73;
-     margin-left: 680px;
-     font-size: 22px;
-     margin-top: 5px;
-    }
+  .nav_1 > a {
+    font-size: 19px;
+    margin-top: 10px;
   }
-  @media screen and (max-width: 1028px){
-    .bounce{
-      margin-left: 180px;
-    }
-    .nav_1>i{
-      display: inline-block;
-      color: #00ff73;
-     margin-left: 580px;
-     font-size: 22px;
-     margin-top: 5px;
-    }
+}
+@media screen and (max-width: 1131px) {
+  .bounce {
+    margin-left: 230px;
   }
-  @media screen and (max-width:975px){
-   
-    .dash1-cards{
-      width: 800px;
-    }
-    .dash1-chart-box{
-      width: 890px;
-    }
+  .nav_1 > a {
+    font-size: 19px;
+    margin-top: 10px;
+    display: none;
   }
-  @media screen and (max-width: 959px){
-    .bounce{
-      margin-left: 180px;
-    }
-    .nav_1>i{
-      display: inline-block;
-      color: #00ff73;
-     margin-left: 540px;
-     font-size: 22px;
-     margin-top: 5px;
-    }
-    .dash1-cards{
-      width: 700px;
-    }
-    .dash1-chart-box{
-      width: 800px;
-      height: 415px;
-    }
+  .nav_1 > i {
+    display: inline-block;
+    color: #00ff73;
+    margin-left: 680px;
+    font-size: 22px;
+    margin-top: 5px;
   }
-  @media screen and (max-width: 910px){
-    .bounce{
-      margin-left: 180px;
-    }
-    .nav_1>i{
-      display: inline-block;
-      color: #00ff73;
-     margin-left: 500px;
-     font-size: 22px;
-     margin-top: 5px;
-    }
+}
+@media screen and (max-width: 1028px) {
+  .bounce {
+    margin-left: 180px;
   }
-  @media screen and (max-width: 872px){
-    .bounce{
-      margin-left: 140px;
-    }
-    .nav_1>i{
-      display: inline-block;
-      color: #00ff73;
-     margin-left: 480px;
-     font-size: 22px;
-     margin-top: 5px;
-    }
-    .dash1-chart-box{
-      width: 750px;
-      height: 350px;
-    }
+  .nav_1 > i {
+    display: inline-block;
+    color: #00ff73;
+    margin-left: 580px;
+    font-size: 22px;
+    margin-top: 5px;
   }
-  @media screen and (max-width: 854px){
-    .bounce{
-      margin-left: 100px;
-    }
-    .nav_1>i{
-      display: inline-block;
-      color: #00ff73;
-     margin-left: 440px;
-     font-size: 22px;
-     margin-top: 5px;
-    }
+}
+@media screen and (max-width: 975px) {
+  .dash1-cards {
+    width: 800px;
   }
-  @media screen and (max-width: 810px){
-    .bounce{
-      margin-left: 80px;
-    }
-    .nav_1>i{
-      display: inline-block;
-      color: #00ff73;
-     margin-left: 400px;
-     font-size: 22px;
-     margin-top: 5px;
-    }
-    .dash1-cards{
-      width: 650px;
-    }
-    .dash1-chart-box{
-      width: 700px;
-    }
+  .dash1-chart-box {
+    width: 890px;
   }
-  
-  @media screen and (max-width: 772px){
-    .bounce{
-      margin-left: 80px;
-      font-size: 27px;
-    }
-    .sec_p{
-      font-size: 27px;
-    }
-    .logo{
-      margin-left: 20px;
-    }
-    .nav_1>i{
-      display: inline-block;
-      color: #00ff73;
-     margin-left: 380px;
-     font-size: 22px;
-     margin-top: 5px;
-    }
+}
+@media screen and (max-width: 959px) {
+  .bounce {
+    margin-left: 180px;
   }
-  
-  @media screen and (max-width: 750px){
-   
-    .dash1-cards{
-      width: 600px;
-    }
-    .dash1-chart-box{
-      width: 650px;
-      height: 300px;
-    }
+  .nav_1 > i {
+    display: inline-block;
+    color: #00ff73;
+    margin-left: 540px;
+    font-size: 22px;
+    margin-top: 5px;
   }
-  
-  @media screen and (max-width: 690px){
-   .nav_1>i{
-      
-     margin-left: 340px;
-   
-    }
-    .bounce{
-      margin-left: 60px;
-      font-size: 24px;
-    }
-    .sec_p{
-      font-size: 24px;
-    }
-  
-    .dash1-chart-box{
-      width: 600px;
-      height: 300px;
-    }
+  .dash1-cards {
+    width: 700px;
   }
-  @media screen and (max-width: 650px){
-    .nav_1>i{
-       
-      margin-left: 300px;
-    
-     }
-     .logo{
-     font-size: 14px;
-    }
-  
-    .dash1-cards{
-      width: 550px;
-    }
-    .dash1-chart-box{
-      width: 550px;
-      height: 270px;
-    }
-   }
-  
-   @media screen and (max-width: 610px){
-   
-     .bounce{
-       margin-left: 45px;
-       font-size: 23px;
-     }
-     .sec_p{
-       font-size: 23px;
-     }
-  
-     .dash1-cards{
-      width: 500px;
-    }
-    .dash1-chart-box{
-      width: 500px;
-      height: 250px;
-    }
-   }
-  
-   @media screen and (max-width: 595px){
-    .nav_1>i{
-       
-      margin-left: 280px;
-    
-     }
-     .logo{
-     font-size: 12px;
-    }
-    .logo>img{
-      width: 42px;
-      height: 42px;
-    }
-    .bounce{
-      margin-left: 120px;
-      font-size: 18px;
-    }
-    .sec_p{
-      width: 314px;
-      font-size: 18px;
-      margin-left: 160px;
-    }
-  
-    .sec_1btn{
-      margin-top: -410px;
-    }
-  
-   }
-  
-   @media screen and (max-width: 567px){
-   
-    .bounce{
-      margin-left:80px;
-      font-size: 17px;
-    }
-    .sec_p{
-      width: 290px;
-      font-size: 17px;
-      margin-left: 110px;
-    }
-    .sec_1btn{
-      margin-left: 155px;
-    }
+  .dash1-chart-box {
+    width: 800px;
+    height: 415px;
   }
-  
-  
-  @media screen and (max-width: 530px){
-    .dash1-cards{
-      width: 450px;
-      display: block;
-     
-  
-    }
-  
-    .dash1-cards>.dash1-card:nth-child(2){
-      margin-top: 20px;
-    }
-    .dash1-chart-box{
-      width: 450px;
-      height: 220px;
-    }
-    
+}
+@media screen and (max-width: 910px) {
+  .bounce {
+    margin-left: 180px;
   }
-  
-  
-  @media screen and (max-width: 520px){
-   
-   
-    .sec_1btn{
-      margin-left: 155px;
-    }
-    .nav_1>i{
-      
-      margin-left: 240px;
-    
-     }
+  .nav_1 > i {
+    display: inline-block;
+    color: #00ff73;
+    margin-left: 500px;
+    font-size: 22px;
+    margin-top: 5px;
   }
-  
-  @media screen and (max-width: 485px){
-   
-   
-    .sec_1btn{
-      margin-left: 155px;
-    }
-    .nav_1>i{
-      
-      margin-left: 200px;
-    
-  
-     }
-  
-     .dash1-cards{
-      width: 400px;
-      display: block;
-     
-  
-    }
-     .dash1-chart-box{
-      width: 400px;
-      height: 200px;
-      margin-left: 5px;
-    }
-  
+}
+@media screen and (max-width: 872px) {
+  .bounce {
+    margin-left: 140px;
   }
-  
-  @media screen and (max-width: 462px){
-   
-   
-    .sec_1btn{
-      margin-left: 118px;
-    }
-    .nav_1>i{
-      
-      margin-left: 200px;
-    
-     }
-     .bounce{
-      margin-left:70px;
-      font-size: 15px;
-    }
-    .sec_p{
-      width: 290px;
-      font-size: 15px;
-      margin-left: 100px;
-    }
+  .nav_1 > i {
+    display: inline-block;
+    color: #00ff73;
+    margin-left: 480px;
+    font-size: 22px;
+    margin-top: 5px;
   }
-  
-  @media screen and (max-width: 440px){
-   
-   
-    .sec_1btn{
-      margin-left: 118px;
-    }
-    .nav_1>i{
-      
-      margin-left: 185px;
-    
-     }
-     .bounce{
-      margin-left:70px;
-      font-size: 15px;
-    }
-    .sec_p{
-      width: 290px;
-      font-size: 15px;
-      margin-left: 100px;
-    }
-  
-    .dash1-cards{
-      width: 350px;
-      display: block;
-      margin-left: 2px;
-     
-  
-    }
-     .dash1-chart-box{
-      width: 350px;
-      height: 180px;
-      margin-left: 2px;
-    }
+  .dash1-chart-box {
+    width: 750px;
+    height: 350px;
   }
-  
-  @media screen and (max-width: 416px){
-   
-   
-    .sec_1btn{
-      margin-left: 100px;
-    }
-    .nav_1>i{
-      
-      margin-left: 170px;
-    
-     }
-     .bounce{
-      margin-left:50px;
-      font-size: 15px;
-    }
-    .sec_p{
-      width: 290px;
-      font-size: 15px;
-      margin-left: 70px;
-    }
+}
+@media screen and (max-width: 854px) {
+  .bounce {
+    margin-left: 100px;
   }
-  
-  @media screen and (max-width: 405px){
-   
-   
-    .sec_1btn{
-      margin-top: -435px;
-      margin-left: 80px;
-      width: 170px;
-      height: 42px;
-    }
-    .nav_1>i{
-      margin-top: 2px;
-      margin-left: 180px;
-      font-size: 15px;
-    
-     }
-     .bounce{
-      margin-left:30px;
-      font-size: 15px;
-    }
-    .sec_p{
-      width: 290px;
-      font-size: 15px;
-      margin-left: 50px;
-      margin-top: -275px;
-    }
-  
-  
-  .logo{
-  font-size: 10px;
+  .nav_1 > i {
+    display: inline-block;
+    color: #00ff73;
+    margin-left: 440px;
+    font-size: 22px;
+    margin-top: 5px;
   }
-  .logo>img{
-   width: 35px;
-   height: 35px;
-   margin-top: 4px;
+}
+@media screen and (max-width: 810px) {
+  .bounce {
+    margin-left: 80px;
   }
-  
-  
+  .nav_1 > i {
+    display: inline-block;
+    color: #00ff73;
+    margin-left: 400px;
+    font-size: 22px;
+    margin-top: 5px;
   }
-  
-  @media screen and (max-width: 382px){
-   
-    .nav_1>i{
-      margin-top: 2px;
-      margin-left: 160px;
-      font-size: 15px;
-    
-     }
-   
-     .dash1-cards{
-      width: 300px;
-      display: block;
-      margin-left: 1px;
-     
-  
-    }
-     .dash1-chart-box{
-      width: 300px;
-      height: 150px;
-      margin-left: 1px;
-    }
-  
+  .dash1-cards {
+    width: 650px;
   }
-  
-  @media screen and (max-width: 360px){
-   
-    .nav_1>i{
-      margin-top: 2px;
-      margin-left: 150px;
-      font-size: 15px;
-    
-     }
-   
-     .bounce{
-      margin-left:20px;
-      font-size: 15px;
-    }
-    .sec_p{
-      width: 290px;
-      font-size: 15px;
-      margin-left: 40px;
-      margin-top: -275px;
-    }
-  
-    .sec_1btn{
-      margin-top: -435px;
-      margin-left: 75px;
-      
-    }
-    .sec_1btn> button{
-      width: 170px;
-      height: 45px;
-    }
+  .dash1-chart-box {
+    width: 700px;
   }
-  
-  @media screen and (max-width: 350px){
-   
-    .nav_1>i{
-      margin-top: 2px;
-      margin-left: 140px;
-      font-size: 15px;
-    
-     }
-   
-     .bounce{
-      margin-left:5px;
-      font-size: 15px;
-    }
-    .sec_p{
-      width: 290px;
-      font-size: 15px;
-      margin-left: 30px;
-      margin-top: -275px;
-    }
-  
-    .sec_1btn{
-      margin-top: -435px;
-      margin-left: 75px;
-      
-    }
-    .sec_1btn> button{
-      width: 170px;
-      height: 45px;
-    }
+}
+
+@media screen and (max-width: 772px) {
+  .bounce {
+    margin-left: 80px;
+    font-size: 27px;
   }
-  
-  @media screen and (max-width: 340px){
-   
-    .nav_1>i{
-      margin-top: 2px;
-      margin-left: 140px;
-      font-size: 15px;
-    
-     }
-   
-     .bounce{
-      margin-left:5px;
-      font-size: 15px;
-    }
-    .sec_p{
-      width: 290px;
-      font-size: 15px;
-      margin-left: 30px;
-      margin-top: -275px;
-    }
-  
-    .sec_1btn{
-      margin-top: -435px;
-      margin-left: 75px;
-      
-    }
-    .sec_1btn> button{
-      width: 170px;
-      height: 45px;
-    }
-    .logo{
-      font-size: 8px;
-      margin-top: 15px;
-      }
-      .logo>img{
-       width: 25px;
-       height: 25px;
-       margin-top: 5px;
-      }
+  .sec_p {
+    font-size: 27px;
   }
-  
-  @media screen and (max-width: 320px){
-   
-    .nav_1>i{
-      margin-top: 2px;
-      margin-left: 140px;
-      font-size: 15px;
-    
-     }
-   
-     .bounce{
-      /* margin-left:10px; */
-      font-size: 13px;
-      font-weight: 100;
-  
-    }
-    .sec_p{
-      width: 210px;
-      font-size: 13px;
-      /* margin-left: 30px; */
-      margin-top: -280px;
-      line-height: 1.5;
-      font-weight: 100;
-  
-    }
-  
-    .sec_1btn{
-      margin-top: -450px;
-      margin-left: 70px;
-      
-    }
-    .sec_1btn> button{
-      width: 160px;
-      height: 40px;
-    }
-    .logo{
-      font-size: 9px;
-      margin-top: 15px;
-      }
-      .logo>img{
-       width: 26px;
-       height: 26px;
-       margin-top: 8px;
-      }
-  
-      .dash1-cards{
-        width: 300px;
-        display: block;
-        margin-left: 0;
-       
-    
-      }
-       .dash1-chart-box{
-        width: 305px;
-        height: 170px;
-        margin-left: 0;
-      }
-      
+  .logo {
+    margin-left: 20px;
   }
+  .nav_1 > i {
+    display: inline-block;
+    color: #00ff73;
+    margin-left: 380px;
+    font-size: 22px;
+    margin-top: 5px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .dash1-cards {
+    width: 600px;
+  }
+  .dash1-chart-box {
+    width: 650px;
+    height: 300px;
+  }
+}
+
+@media screen and (max-width: 690px) {
+  .nav_1 > i {
+    margin-left: 340px;
+  }
+  .bounce {
+    margin-left: 60px;
+    font-size: 24px;
+  }
+  .sec_p {
+    font-size: 24px;
+  }
+
+  .dash1-chart-box {
+    width: 600px;
+    height: 300px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .nav_1 > i {
+    margin-left: 300px;
+  }
+  .logo {
+    font-size: 14px;
+  }
+
+  .dash1-cards {
+    width: 550px;
+  }
+  .dash1-chart-box {
+    width: 550px;
+    height: 270px;
+  }
+}
+
+@media screen and (max-width: 610px) {
+  .bounce {
+    margin-left: 45px;
+    font-size: 23px;
+  }
+  .sec_p {
+    font-size: 23px;
+  }
+
+  .dash1-cards {
+    width: 500px;
+  }
+  .dash1-chart-box {
+    width: 500px;
+    height: 250px;
+  }
+}
+
+@media screen and (max-width: 595px) {
+  .nav_1 > i {
+    margin-left: 280px;
+  }
+  .logo {
+    font-size: 12px;
+  }
+  .logo > img {
+    width: 42px;
+    height: 42px;
+  }
+  .bounce {
+    margin-left: 120px;
+    font-size: 18px;
+  }
+  .sec_p {
+    width: 314px;
+    font-size: 18px;
+    margin-left: 160px;
+  }
+
+  .sec_1btn {
+    margin-top: -410px;
+  }
+}
+
+@media screen and (max-width: 567px) {
+  .bounce {
+    margin-left: 80px;
+    font-size: 17px;
+  }
+  .sec_p {
+    width: 290px;
+    font-size: 17px;
+    margin-left: 110px;
+  }
+  .sec_1btn {
+    margin-left: 155px;
+  }
+}
+
+@media screen and (max-width: 530px) {
+  .dash1-cards {
+    width: 450px;
+    display: block;
+  }
+
+  .dash1-cards > .dash1-card:nth-child(2) {
+    margin-top: 20px;
+  }
+  .dash1-chart-box {
+    width: 450px;
+    height: 220px;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  .sec_1btn {
+    margin-left: 155px;
+  }
+  .nav_1 > i {
+    margin-left: 240px;
+  }
+}
+
+@media screen and (max-width: 485px) {
+  .sec_1btn {
+    margin-left: 155px;
+  }
+  .nav_1 > i {
+    margin-left: 200px;
+  }
+
+  .dash1-cards {
+    width: 400px;
+    display: block;
+  }
+  .dash1-chart-box {
+    width: 400px;
+    height: 200px;
+    margin-left: 5px;
+  }
+}
+
+@media screen and (max-width: 462px) {
+  .sec_1btn {
+    margin-left: 118px;
+  }
+  .nav_1 > i {
+    margin-left: 200px;
+  }
+  .bounce {
+    margin-left: 70px;
+    font-size: 15px;
+  }
+  .sec_p {
+    width: 290px;
+    font-size: 15px;
+    margin-left: 100px;
+  }
+}
+
+@media screen and (max-width: 440px) {
+  .sec_1btn {
+    margin-left: 118px;
+  }
+  .nav_1 > i {
+    margin-left: 185px;
+  }
+  .bounce {
+    margin-left: 70px;
+    font-size: 15px;
+  }
+  .sec_p {
+    width: 290px;
+    font-size: 15px;
+    margin-left: 100px;
+  }
+
+  .dash1-cards {
+    width: 350px;
+    display: block;
+    margin-left: 2px;
+  }
+  .dash1-chart-box {
+    width: 350px;
+    height: 180px;
+    margin-left: 2px;
+  }
+}
+
+@media screen and (max-width: 416px) {
+  .sec_1btn {
+    margin-left: 100px;
+  }
+  .nav_1 > i {
+    margin-left: 170px;
+  }
+  .bounce {
+    margin-left: 50px;
+    font-size: 15px;
+  }
+  .sec_p {
+    width: 290px;
+    font-size: 15px;
+    margin-left: 70px;
+  }
+}
+
+@media screen and (max-width: 405px) {
+  .sec_1btn {
+    margin-top: -435px;
+    margin-left: 80px;
+    width: 170px;
+    height: 42px;
+  }
+  .nav_1 > i {
+    margin-top: 2px;
+    margin-left: 180px;
+    font-size: 15px;
+  }
+  .bounce {
+    margin-left: 30px;
+    font-size: 15px;
+  }
+  .sec_p {
+    width: 290px;
+    font-size: 15px;
+    margin-left: 50px;
+    margin-top: -275px;
+  }
+
+  .logo {
+    font-size: 10px;
+  }
+  .logo > img {
+    width: 35px;
+    height: 35px;
+    margin-top: 4px;
+  }
+}
+
+@media screen and (max-width: 382px) {
+  .nav_1 > i {
+    margin-top: 2px;
+    margin-left: 160px;
+    font-size: 15px;
+  }
+
+  .dash1-cards {
+    width: 300px;
+    display: block;
+    margin-left: 1px;
+  }
+  .dash1-chart-box {
+    width: 320px;
+    height: 160px;
+    margin-left: 1px;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .nav_1 > i {
+    margin-top: 2px;
+    margin-left: 150px;
+    font-size: 15px;
+  }
+
+  .bounce {
+    margin-left: 20px;
+    font-size: 15px;
+  }
+  .sec_p {
+    width: 290px;
+    font-size: 15px;
+    margin-left: 40px;
+    margin-top: -275px;
+  }
+
+  .sec_1btn {
+    margin-top: -435px;
+    margin-left: 75px;
+  }
+  .sec_1btn > button {
+    width: 170px;
+    height: 45px;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .nav_1 > i {
+    margin-top: 2px;
+    margin-left: 140px;
+    font-size: 15px;
+  }
+
+  .bounce {
+    margin-left: 5px;
+    font-size: 15px;
+  }
+  .sec_p {
+    width: 290px;
+    font-size: 15px;
+    margin-left: 30px;
+    margin-top: -275px;
+  }
+
+  .sec_1btn {
+    margin-top: -435px;
+    margin-left: 75px;
+  }
+  .sec_1btn > button {
+    width: 170px;
+    height: 45px;
+  }
+}
+
+@media screen and (max-width: 340px) {
+  .nav_1 > i {
+    margin-top: 2px;
+    margin-left: 140px;
+    font-size: 15px;
+  }
+
+  .bounce {
+    margin-left: 5px;
+    font-size: 15px;
+  }
+  .sec_p {
+    width: 290px;
+    font-size: 15px;
+    margin-left: 30px;
+    margin-top: -275px;
+  }
+
+  .sec_1btn {
+    margin-top: -435px;
+    margin-left: 75px;
+  }
+  .sec_1btn > button {
+    width: 170px;
+    height: 45px;
+  }
+  .logo {
+    font-size: 8px;
+    margin-top: 15px;
+  }
+  .logo > img {
+    width: 25px;
+    height: 25px;
+    margin-top: 5px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .nav_1 > i {
+    margin-top: 2px;
+    margin-left: 140px;
+    font-size: 15px;
+  }
+
+  .bounce {
+    /* margin-left:10px; */
+    font-size: 13px;
+    font-weight: 100;
+  }
+  .sec_p {
+    width: 210px;
+    font-size: 13px;
+    /* margin-left: 30px; */
+    margin-top: -280px;
+    line-height: 1.5;
+    font-weight: 100;
+  }
+
+  .sec_1btn {
+    margin-top: -450px;
+    margin-left: 70px;
+  }
+  .sec_1btn > button {
+    width: 160px;
+    height: 40px;
+  }
+  .logo {
+    font-size: 9px;
+    margin-top: 15px;
+  }
+  .logo > img {
+    width: 26px;
+    height: 26px;
+    margin-top: 8px;
+  }
+
+  .dash1-cards {
+    width: 300px;
+    display: block;
+    margin-left: 0;
+  }
+  .dash1-chart-box {
+    width: 305px;
+    height: 170px;
+    margin-left: 0;
+  }
+}
