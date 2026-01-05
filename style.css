@@ -1243,3 +1243,179 @@ nav {
     margin-left: 100px;
   }
 }
+
+@media screen and (max-width: 416px){
+ 
+ 
+  .sec_1btn{
+    margin-left: 100px;
+  }
+  .nav_1>i{
+    
+    margin-left: 170px;
+  
+   }
+   .bounce{
+    margin-left:50px;
+    font-size: 15px;
+  }
+  .sec_p{
+    width: 290px;
+    font-size: 15px;
+    margin-left: 70px;
+  }
+}
+
+@media screen and (max-width: 405px){
+ 
+ 
+  .sec_1btn{
+    margin-top: -435px;
+    margin-left: 80px;
+    width: 170px;
+    height: 42px;
+  }
+  .nav_1>i{
+    margin-top: 2px;
+    margin-left: 180px;
+    font-size: 15px;
+  
+   }
+   .bounce{
+    margin-left:30px;
+    font-size: 15px;
+  }
+  .sec_p{
+    width: 290px;
+    font-size: 15px;
+    margin-left: 50px;
+    margin-top: -275px;
+  }
+
+
+.logo{
+font-size: 10px;
+}
+.logo>img{
+ width: 35px;
+ height: 35px;
+ margin-top: 4px;
+}
+
+
+}
+
+@media screen and (max-width: 382px){
+ 
+  .nav_1>i{
+    margin-top: 2px;
+    margin-left: 160px;
+    font-size: 15px;
+  
+   }
+ 
+
+
+}
+
+@media screen and (max-width: 360px){
+ 
+  .nav_1>i{
+    margin-top: 2px;
+    margin-left: 150px;
+    font-size: 15px;
+  
+   }
+ 
+   .bounce{
+    margin-left:20px;
+    font-size: 15px;
+  }
+  .sec_p{
+    width: 290px;
+    font-size: 15px;
+    margin-left: 40px;
+    margin-top: -275px;
+  }
+
+  .sec_1btn{
+    margin-top: -435px;
+    margin-left: 75px;
+    
+  }
+  .sec_1btn> button{
+    width: 170px;
+    height: 45px;
+  }
+}
+
+@media screen and (max-width: 350px){
+ 
+  .nav_1>i{
+    margin-top: 2px;
+    margin-left: 140px;
+    font-size: 15px;
+  
+   }
+ 
+   .bounce{
+    margin-left:5px;
+    font-size: 15px;
+  }
+  .sec_p{
+    width: 290px;
+    font-size: 15px;
+    margin-left: 30px;
+    margin-top: -275px;
+  }
+
+  .sec_1btn{
+    margin-top: -435px;
+    margin-left: 75px;
+    
+  }
+  .sec_1btn> button{
+    width: 170px;
+    height: 45px;
+  }
+}
+
+@media screen and (max-width: 340px){
+ 
+  .nav_1>i{
+    margin-top: 2px;
+    margin-left: 140px;
+    font-size: 15px;
+  
+   }
+ 
+   .bounce{
+    margin-left:5px;
+    font-size: 15px;
+  }
+  .sec_p{
+    width: 290px;
+    font-size: 15px;
+    margin-left: 30px;
+    margin-top: -275px;
+  }
+
+  .sec_1btn{
+    margin-top: -435px;
+    margin-left: 75px;
+    
+  }
+  .sec_1btn> button{
+    width: 170px;
+    height: 45px;
+  }
+  .logo{
+    font-size: 8px;
+    margin-top: 15px;
+    }
+    .logo>img{
+     width: 25px;
+     height: 25px;
+     margin-top: 5px;
+    }
+}
