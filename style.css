@@ -1430,14 +1430,16 @@ font-size: 10px;
    }
  
    .bounce{
-    margin-left:10px;
-    font-size: 10px;
+    /* margin-left:10px; */
+    font-size: 13px;
   }
   .sec_p{
     width: 221px;
-    font-size: 10px;
-    margin-left: 30px;
+    font-size: 13px;
+    /* margin-left: 30px; */
     margin-top: -280px;
+    line-height: 1.5;
+
   }
 
   .sec_1btn{
@@ -1450,12 +1452,12 @@ font-size: 10px;
     height: 40px;
   }
   .logo{
-    font-size: 8px;
+    font-size: 9px;
     margin-top: 15px;
     }
     .logo>img{
-     width: 25px;
-     height: 25px;
-     margin-top: 5px;
+     width: 26px;
+     height: 26px;
+     margin-top: 8px;
     }
 }
