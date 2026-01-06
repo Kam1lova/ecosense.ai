@@ -371,7 +371,7 @@ nav {
 .section_2 {
   width: 1090px;
   height: 600px;
-  border: 1px solid blue;
+  /* border: 1px solid blue; */
   margin: 120px auto;
 }
 .section_2 > h1 {
